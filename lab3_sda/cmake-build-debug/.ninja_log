@@ -1,0 +1,21 @@
+# ninja log v5
+83	539	7048194488806857	CMakeFiles/lab3_sda.dir/SetIterator.cpp.obj	c2f6adf6f4300caf
+35	706	7048194489961272	CMakeFiles/lab3_sda.dir/Set.cpp.obj	3b83f2e4bb58b4ab
+109	708	7048194489868000	CMakeFiles/lab3_sda.dir/ShortTest.cpp.obj	92f327479c69cbc7
+1	1205	7048194496391294	CMakeFiles/lab3_sda.dir/ExtendedTest.cpp.obj	8e51b4c878dcd03d
+19	1217	7048194496628688	CMakeFiles/lab3_sda.dir/App.cpp.obj	f0a9a2cdc459a117
+1217	3520	7048194519645927	lab3_sda.exe	a58e8d7fcde71fc9
+57	253	7048223068371500	CMakeFiles/lab3_sda.dir/SetIterator.cpp.obj	c2f6adf6f4300caf
+65	295	7048223068896012	CMakeFiles/lab3_sda.dir/ShortTest.cpp.obj	92f327479c69cbc7
+47	298	7048223068906996	CMakeFiles/lab3_sda.dir/Set.cpp.obj	3b83f2e4bb58b4ab
+39	624	7048223072207939	CMakeFiles/lab3_sda.dir/App.cpp.obj	f0a9a2cdc459a117
+27	655	7048223072539554	CMakeFiles/lab3_sda.dir/ExtendedTest.cpp.obj	8e51b4c878dcd03d
+655	863	7048223074382198	lab3_sda.exe	a58e8d7fcde71fc9
+65	420	7048228410935390	CMakeFiles/lab3_sda.dir/ShortTest.cpp.obj	92f327479c69cbc7
+130	451	7048228411238431	CMakeFiles/lab3_sda.dir/Set.cpp.obj	3b83f2e4bb58b4ab
+109	477	7048228411554783	CMakeFiles/lab3_sda.dir/SetIterator.cpp.obj	c2f6adf6f4300caf
+49	929	7048228415982178	CMakeFiles/lab3_sda.dir/ExtendedTest.cpp.obj	8e51b4c878dcd03d
+27	964	7048228416080179	CMakeFiles/lab3_sda.dir/App.cpp.obj	f0a9a2cdc459a117
+964	1362	7048228419638078	lab3_sda.exe	a58e8d7fcde71fc9
+4	175	7048231019568099	CMakeFiles/lab3_sda.dir/Set.cpp.obj	3b83f2e4bb58b4ab
+177	353	7048231021290783	lab3_sda.exe	a58e8d7fcde71fc9
